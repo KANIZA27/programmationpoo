@@ -23,10 +23,11 @@ let documentCss = new Document("Guide de CSS", 50, "Marie Ali");
 let documentJavascript = new Document("JavaScript pour les Débutants", 120, "Abdou Ali");
 let documentProgrammation = new Document("Programmation Orientée Objet", 90, "Nadia Bakir");
 let documentMysql = new Document("Bases de données MySQL", 75, "Omar Ben Ali");
-
+let documentPosman = new Document("Creer un compt", 18, "Abou Ali");
 // Affichage des documents
 console.log(documentHtml);
 console.log(documentCss);
 console.log(documentJavascript);
 console.log(documentProgrammation);
 console.log(documentMysql);
+console.log(documentPosman);
